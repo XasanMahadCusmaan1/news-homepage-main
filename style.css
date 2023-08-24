@@ -93,6 +93,8 @@ nav{
     justify-content:space-evenly;
     padding: 20px;
 }
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 h2{
     color: var(--Soft-orange);
     font-family: var(--font-family);
